@@ -1,4 +1,7 @@
 ## Cat Detector
+
+[Download the latest version](https://github.com/lordikman/catdetector/blob/master/Cat%20Detector.zip)
+
 This is the **MobileNet** neural network architecture from the paper [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861v1) implemented using Apple's shiny new CoreML framework.
 
 This uses the pretrained weights from [shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe).
